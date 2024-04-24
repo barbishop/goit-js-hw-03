@@ -27,7 +27,7 @@ console.log(slugify("How to become a JUNIOR developer in TWO WEEKS")); // "how-t
 Виклик slugify("Ten secrets of JavaScript") повертає "ten-secrets-of-javascript"
 Виклик slugify("How to become a JUNIOR developer in TWO WEEKS") повертає "how-to-become-a-junior-developer-in-two-weeks"
 
-============================================================================================
+===========================================================================
 
 Задача 2. Композиція масивів
 
@@ -55,7 +55,7 @@ console.log(makeArray(["Earth", "Jupiter"], ["Neptune", "Uranus", "Venus"], 0));
 Виклик makeArray(["Earth", "Jupiter"], ["Neptune", "Uranus", "Venus"], 0) повертає []
 Виклик функції makeArray() з випадковими масивами і випадковим числом повертає правильний масив
 
-============================================================================================
+===========================================================================
 
 Задача 3. Фільтрація масиву чисел
 Виконуй це завдання у файлі task-3.js
